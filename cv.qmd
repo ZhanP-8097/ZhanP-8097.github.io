@@ -1,0 +1,68 @@
+---
+title: "CV"
+---
+
+<!-- TODO: add a web copy of the CV as files/CV_Zhan_Peng.pdf, then un-comment:
+[Download full CV (PDF)](files/CV_Zhan_Peng.pdf){.btn .btn-outline-primary}
+-->
+
+Full publication list: see [Publications](publications.qmd).
+
+## Positions
+
+| | |
+|---|---|
+| 2025–present | **Assistant Professor**, Graduate School of Information Sciences, Tohoku University, Japan |
+| Mar–Jun 2026 | **Visiting Researcher**, UMR CESAER, INRAE / Institut Agro Dijon, France (host: Dr. Julie Le Gallo) |
+| 2023–2024 | **Visiting Researcher**, School of Architecture, Planning and Preservation, University of Maryland, College Park, USA (host: Dr. Hiroyuki Iseki) |
+| 2020–2022 | **Research Assistant**, Transportation and Geographic Information Science Lab, Tohoku University, Japan |
+
+## Education
+
+| | |
+|---|---|
+| 2022–2025 | **Ph.D. in Information Sciences**, Tohoku University. Advisor: Dr. Ryo Inoue. Dissertation: *A Novel Methodology for Analyzing Heterogeneity in Both Geographical Space and Data Distribution* ([repository](https://tohoku.repo.nii.ac.jp/records/2006356)) |
+| 2020–2022 | **M.S. in Information Sciences**, Tohoku University. Advisor: Dr. Ryo Inoue |
+| 2015–2019 | **B.S. in Geographic Information Sciences**, Hohai University, Nanjing, China. Advisor: Dr. Yong Li |
+
+## Research projects
+
+| | |
+|---|---|
+| 2026–present | **Poverty gradients, urban form, and temporal dynamics in French cities** (with Dr. Julie Le Gallo) |
+| 2025–present | **Bayesian network lasso** (with Dr. Ryo Inoue) |
+| 2023–2024 | **WMATA Metrorail ridership analysis** (with Dr. Hiroyuki Iseki) |
+| 2022–2023 | **Post-typhoon recovery from nighttime-light imagery** (with Sendai Nikka High School) |
+
+## Honours & awards
+
+| | |
+|---|---|
+| 2025–2026 | Start-up Research Fund for Female Researchers, Tohoku University |
+| 2022–2025 | JST SPRING Fellowship (Grant No. JPMJSP2114) |
+| 2023 | Best Presentation Award, Doctoral Program Student Presentation, GSIS, Tohoku University |
+| 2021 | Best Presentation Award, 30th Annual Conference of the GIS Association of Japan |
+| 2020 | Kajima Ikueikai Scholarship, Kajima Ikueikai Foundation |
+
+## Selected presentations
+
+- GISTAM 2026, Benidorm, Spain (oral & poster)
+- GIScience 2025, Christchurch, New Zealand (poster)
+- **EcoSta 2025, Tokyo (invited talk)**
+- CoDaWork 2024, Girona, Spain (oral)
+- AAG Annual Meeting 2024, Honolulu (oral); 2022, online (oral)
+- 16th World Conference of the Spatial Econometrics Association, 2022, Warsaw (oral)
+
+## Teaching & mentoring
+
+| | |
+|---|---|
+| Fall 2025 | Guest lecture on spatial heterogeneity, *Spatial Information Analysis* (MSc), Tohoku University |
+| 2025 | BSc thesis supervision: discrete choice models with Moran eigenvector-based spatially varying coefficients |
+| 2022–2024 | Teaching Assistant, *Data Science Series* (MSc), Tohoku University |
+| 2022–2023 | Mentor, high-school research project on nighttime-light analysis, Sendai Nikka High School |
+| Fall 2021 | Teaching Assistant, *Japanese Culture and Communication* (MSc) |
+
+## Languages
+
+Mandarin (native) · English (fluent) · Japanese (fluent) · French (A2)

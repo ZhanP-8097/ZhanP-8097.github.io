@@ -1,0 +1,37 @@
+---
+title: "Zhan Peng"
+subtitle: "Assistant Professor, Graduate School of Information Sciences, Tohoku University"
+about:
+  template: trestles
+  image: assets/headshot-placeholder.svg   # TODO: replace with assets/headshot.jpg
+  image-shape: round
+  links:
+    - icon: file-earmark-person
+      text: CV
+      href: cv.qmd
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=9_7sUMsAAAAJ
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0003-0073-5034
+    # - icon: journal-text     # TODO: add researchmap URL
+    #   text: researchmap
+    #   href: https://researchmap.jp/...
+    - icon: github
+      text: GitHub
+      href: https://github.com/ZhanP-8097
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zhan-peng-32448315b/
+---
+
+I am a quantitative geographer developing spatial statistical methods to explain **where, and for whom, urban relationships differ**, with applications to housing, mobility and spatial inequality.
+
+My work centres on spatial heterogeneity: spatially varying coefficient models, Moran eigenvector spatial filtering, quantile and compositional regression, and Bayesian modelling. In 2026 I was a visiting researcher at UMR CESAER (INRAE / Institut Agro Dijon), working on income gradients and urban form in French cities.
+
+[I am seeking postdoctoral positions in Europe, especially France, from 2027/28.]{.job-market}
+
+**Contact:** peng.zhan.b5 [at] tohoku.ac.jp
+
+**Languages:** Mandarin (native) · English (fluent) · Japanese (fluent) · French (A2)

@@ -1,0 +1,49 @@
+---
+title: "Research"
+draft: true   # v2: remove this line to publish (figures pending)
+---
+
+I study **spatial heterogeneity**, the fact that relationships between urban outcomes and their drivers are not the same everywhere, or for everyone. My work develops spatial statistical methods to detect where and how these relationships differ, and applies them to housing, mobility and spatial inequality.
+
+## Spatial statistics
+
+<!-- FIGURE: ![](assets/research/spatial-statistics.png){fig-alt="..."} -->
+
+Many spatial models answer *whether* space matters. I build tools that make spatial structure explicit and interpretable. They combine **Moran eigenvector spatial filtering** with **penalised regression**, such as generalised lasso and group minimax concave penalties, inside both frequentist and **Bayesian** frameworks. I also test how well these spatial representations carry over to machine learning.
+
+**Key work**
+
+- Inoue, Ishikawa & Peng (2026). Discrete spatial heterogeneity in compositional data via generalized group MCP regularization. *Spatial Statistics*, in press. [DOI](https://doi.org/10.1016/j.spasta.2026.101038)
+- Li & Peng (2025). Can Moran eigenvectors improve machine learning of spatial data? *Geographical Analysis* 57(4). [DOI](https://doi.org/10.1111/gean.70011)
+
+**Ongoing:** *Bayesian network lasso* (with Ryo Inoue). A Bayesian network-lasso model that estimates the latent contextual effects of individual regions while preserving spatial autocorrelation.
+
+## Spatial heterogeneity
+
+<!-- FIGURE: ![](assets/research/spatial-heterogeneity.png){fig-alt="..."} -->
+
+Spatial relationships can change **gradually or abruptly**, at **several scales at once**, and differently **across the outcome distribution**. For example, the drivers of cheap rents need not be the drivers of expensive ones. My models separate continuous from discrete variation, identify multiple scales of heterogeneity, and extend spatially varying coefficients to **quantile regression** and **compositional data**.
+
+**Key work**
+
+- Peng & Inoue (2026). Modeling spatial variation across data distribution: A Moran eigenvector-based spatially varying quantile regression approach. *IJGIS* 40(7). [DOI](https://doi.org/10.1080/13658816.2025.2590211) · [Code & data](https://doi.org/10.6084/m9.figshare.28366949)
+- Peng & Inoue (2024). Multiscale continuous and discrete spatial heterogeneity analysis. *Geographical Analysis* 56(2). [DOI](https://doi.org/10.1111/gean.12375)
+- Peng & Inoue (2023). Moran eigenvectors-based spatial heterogeneity analysis for compositional data. *GIScience 2023*. [DOI](https://doi.org/10.4230/LIPIcs.GIScience.2023.59)
+- Peng & Inoue (2022). Identifying multiple scales of spatial heterogeneity in housing prices. *IJGI* 11(5). [DOI](https://doi.org/10.3390/ijgi11050283)
+
+## Cities, mobility and spatial inequality
+
+<!-- FIGURE: ![](assets/research/cities.png){fig-alt="..."} -->
+
+I apply these methods to urban questions where an average effect hides important differences. Examples include housing markets in Tokyo, metro ridership in Washington, D.C., flows between regions, and the income gradients of French cities.
+
+**Key work**
+
+- Peng & Iseki (2025). Spatially varying relationships between Metrorail ridership and its determinants in the Washington Metropolitan Area. *TRB Annual Meeting 2025* (poster).
+- Inoue, Ando & Peng (2025). Analysing heterogeneity in spatial interactions using gravity models with spatially varying coefficients. *CUPUM 2025*. [Paper](https://osf.io/wt8sr)
+
+**Ongoing:** *Poverty gradients, urban form and temporal dynamics in French cities* (with Julie Le Gallo, UMR CESAER). How do income gradients differ across and within ten major French urban areas, and how do they relate to urban form? The project uses municipal- and IRIS-level income panels for 2015–2021, together with transit accessibility, land-use mix, building morphology and street-network measures.
+
+---
+
+Full list: [Publications](publications.qmd)

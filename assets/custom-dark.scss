@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+$primary: #6fa8d6;
+$link-color: $primary;
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+/*-- scss:rules --*/
+.job-market { font-size: 0.95rem; color: $primary; font-weight: 500; }
+.pub-list { padding-left: 1.5rem; }
+.pub { margin-bottom: 0.9rem; }
+.pub-title { font-weight: 600; }
+.pub-selected { border-left: 3px solid $primary; padding-left: 0.6rem; margin-left: -0.9rem; }
+.pub-badge { font-size: 0.7rem; vertical-align: middle; }
+.pub-links .btn { padding: 0 0.45rem; font-size: 0.75rem; margin-left: 0.15rem; }

@@ -1,0 +1,11 @@
+---
+title: "Publications"
+execute:
+  echo: false
+---
+
+```{r}
+#| output: asis
+source("R/publications.R")
+render_publications("publications.bib")
+```

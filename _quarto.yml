@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!.scratch/"
+    - "!docs/"
+
+execute:
+  freeze: auto   # R runs locally; frozen outputs in _freeze/ are committed
+
+website:
+  title: "Zhan Peng"
+  draft-mode: gone
+  site-url: "https://zhanp-8097.github.io"
+  description: "Quantitative geography, spatial statistics and urban analysis."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      # - href: research.qmd      # v2: un-comment when themes are ready (issue 10)
+      #   text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software & Data
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/ZhanP-8097
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Zhan Peng"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/custom.scss]
+      dark: [darkly, assets/custom-dark.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

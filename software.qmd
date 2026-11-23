@@ -1,0 +1,18 @@
+---
+title: "Software & Data"
+---
+
+## Methods & tools
+
+**Statistical modelling:** spatially varying coefficient models · Moran eigenvector spatial filtering · spatial autoregressive models · quantile regression · compositional data analysis · Bayesian hierarchical models · discrete choice models · spatio-temporal kriging · penalised regression (generalised / fused / network lasso)
+
+**Programming & software:** R · Stan · Python · ArcGIS · QGIS
+
+## Code & data
+
+**MSVQR: Moran eigenvector-based spatially varying quantile regression.** R code and data for the simulation experiments and the rental-housing case study in Peng & Inoue (2026, *IJGIS*). CC BY 4.0.
+[figshare](https://doi.org/10.6084/m9.figshare.28366949){.btn .btn-sm .btn-outline-primary}
+[Paper](https://doi.org/10.1080/13658816.2025.2590211){.btn .btn-sm .btn-outline-primary}
+
+<!-- TODO (issue 12): R package — link GitHub repo once public -->
+<!-- TODO (issue 11): data paper — add once published -->
