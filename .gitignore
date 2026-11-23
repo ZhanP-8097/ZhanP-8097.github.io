@@ -1,0 +1,47 @@
+# Quarto build output (rebuilt by GitHub Actions)
+/_site/
+/.quarto/
+# NOTE: _freeze/ is intentionally NOT ignored — frozen R outputs must be committed
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rproj
+renv/library/
+renv/staging/
+
+# Large / raw data (only small processed files belong in the repo)
+data-raw/
+*.gpkg-journal
+*.tif
+*.tiff
+
+# LaTeX build artefacts (if the CV source is ever kept here)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# OS / Google Drive sync files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
+.~lock.*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Local secrets / agent settings
+.env
+.Renviron
+.claude/settings.local.json
+.scratch/
